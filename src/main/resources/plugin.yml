@@ -1,0 +1,5 @@
+name: MidnightRTP
+version: 1.0
+main: net.midnight.rtp.MidnightRTP
+api-version: '1.21'
+description: Automatic First-Join and Death-Respawn RTP Plugin for Midnight Lifesteal
